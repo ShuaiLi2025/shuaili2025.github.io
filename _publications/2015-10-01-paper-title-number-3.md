@@ -1,12 +1,11 @@
 ---
-title: "A Lagrange–Newton algorithm for tensor sparse principal component analysis"
+title: "Sparse Quadratically Constrained Quadratic Programming via Semismooth Newton Method"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-date: 2023-7-12
-venue: 'Optimization'
+date: 2025-3-19
 paperurl: 'https://github.com/BJTUShuaiLi/shuaili.github.io/blob/master/files/LNA.pdf'
 bibtexurl: 'https://github.com/BJTUShuaiLi/shuaili.github.io/blob/master/files/LNA.bib'
-citation: 'Li, Shuai, Ziyan Luo, and Yang Chen. "A Lagrange–Newton algorithm for tensor sparse principal component analysis." Optimization 73.9 (2024): 2933-2951.'
+citation: 'Li, Shuai, Shenglong Zhou, and Ziyan Luo. "Sparse Quadratically Constrained Quadratic Programming via Semismooth Newton Method." arXiv preprint arXiv:2503.15109 (2025).'
 ---
 
