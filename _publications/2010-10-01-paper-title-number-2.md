@@ -2,7 +2,7 @@
 title: "A Lagrange–Newton algorithm for tensor sparse principal component analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2010-10-01-paper-title-number-3
 date: 2023-7-12
 venue: 'Optimization'
 paperurl: 'https://github.com/ShuaiLi1227/shuaili1227.github.io/blob/master/files/LNA.pdf'
